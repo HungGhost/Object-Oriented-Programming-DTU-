@@ -1,5 +1,4 @@
 Object-Oriented Programming C++ (Advanced Concepts in Computing)
-  -- Homework w1-w8
  - Week 1 (Review of functions, structures)
  - Week 2 (structures, character pointers, overloaded functions)
  - Week 3 (Classes, data members, methods)
@@ -8,4 +7,4 @@ Object-Oriented Programming C++ (Advanced Concepts in Computing)
  - Week 6 (Operator overloading)
  - Week 7 (Inheritance-method overriding, virtual functions, virtual classes)
  - Week 8 (Function Templates, class Templates, exception handling)
-- WEEKEND - 
+-  DUONG THANH HUNG TPM2 - 
