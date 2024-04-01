@@ -7,4 +7,4 @@ Object-Oriented Programming C++ (Advanced Concepts in Computing)
  - Week 6 (Operator overloading)
  - Week 7 (Inheritance-method overriding, virtual functions, virtual classes)
  - Week 8 (Function Templates, class Templates, exception handling)
--  DUONG THANH HUNG TPM2 - 
+-  DUONG THANH HUNG TPM12
